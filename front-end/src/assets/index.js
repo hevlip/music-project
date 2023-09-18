@@ -11,6 +11,7 @@ import frequecies from './frequecies.png'
 import mixingconsole from './mixingconsole.png'
 import mastering from './mastering.png'
 import VocalsProccing from './VocalsProccing.png'
+import bg0element from './bg0element.svg'
 export {
   Blog1,
   blog2,
@@ -24,5 +25,6 @@ export {
   frequecies,
   mixingconsole,
   mastering,
-  VocalsProccing
+  VocalsProccing,
+  bg0element
 };
