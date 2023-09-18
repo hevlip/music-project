@@ -4,7 +4,7 @@ import blog3 from "./blog3.jpg";
 import Closeicon from "./Closeicon.svg";
 import facebookIcon from "./facebookIcon.svg";
 import instagramIcon from "./instagramIcon.svg";
-import MenuClose from "./MenuClose.svg";
+import MenuClose from "./MenuIcon.svg";
 import twitter from "./twitter.svg";
 import heroimage from './hero-image.jpg'
 import frequecies from './frequecies.png'
@@ -12,6 +12,8 @@ import mixingconsole from './mixingconsole.png'
 import mastering from './mastering.png'
 import VocalsProccing from './VocalsProccing.png'
 import bg0element from './bg0element.svg'
+import Daw from './Daw.png'
+import mixing from './mixing.png'
 export {
   Blog1,
   blog2,
@@ -26,5 +28,7 @@ export {
   mixingconsole,
   mastering,
   VocalsProccing,
-  bg0element
+  bg0element,
+  Daw,
+  mixing
 };
