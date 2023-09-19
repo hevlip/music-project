@@ -3,9 +3,11 @@ import "./Info.css"
 
 const Info = () => {
   return (
-    <div>
-    This the Info
-    </div>
+    <section id='info' className='dark-gray'>
+     <div className='wrapper'>
+      <div className='content-container'></div>
+     </div>
+    </section>
   )
 }
 
