@@ -14,6 +14,10 @@ import VocalsProccing from './VocalsProccing.png'
 import bg0element from './bg0element.svg'
 import Daw from './Daw.png'
 import mixing from './mixing.png'
+import videoicon from './videoicon.svg'
+import studenticon from './studenticon.svg'
+import bgelement2 from './bgelement2.svg'
+
 export {
   Blog1,
   blog2,
@@ -30,5 +34,8 @@ export {
   VocalsProccing,
   bg0element,
   Daw,
-  mixing
+  mixing,
+  videoicon,
+  studenticon,
+  bgelement2
 };
