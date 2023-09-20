@@ -1,11 +1,10 @@
-import React from 'react'
 import "./Blog.css"
 
 const Blog = () => {
   return (
-    <div>
-      This the Blog
-    </div>
+    <section id="blog" className="pink">
+
+    </section>
   )
 }
 
